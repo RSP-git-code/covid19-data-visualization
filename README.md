@@ -11,7 +11,7 @@ main.py: Python script for analysis and visualization.
 1. **Clone the repository** to your local machine from GitHub.
 2. **Install the required dependencies**: Make sure to install `numpy`, `matplotlib`, and `pandas` using a package manager like `pip`.
 3. **Add the dataset**: Ensure that the `matplotlibdata.xlsx` file (containing the COVID-19 data) is placed in the same directory as the `main.py` script.
-4. **Run the project** by executing the `main.py` script in your Python environment to generate the visualizations.
+4. **Run the project** by executing the `main.py` script in your Python environment to generate the visualizations or provide the path where you saved this file in the code.
 
 This version provides the same guidance but without specific commands. Let me know if you'd like any further adjustments!
 
