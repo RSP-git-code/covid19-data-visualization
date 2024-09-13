@@ -1,4 +1,4 @@
-COVID-19 Data Analysis on 70 Countries
+**COVID-19 Data Analysis on 70 Countries**
 This project provides an analysis of COVID-19 cases across 70 countries using data from  Wikipedia. The data is analyzed with pandas ,numpy and matplotlib, and visualized with bar charts.
 Features
 Data Analysis: Processed with pandas ,numpy and matplotlib.
