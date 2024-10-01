@@ -22,10 +22,15 @@ This project provides an analysis of COVID-19 cases across 70 countries using da
 - Wikipedia: [COVID-19 pandemic by country and territory](https://en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory)
 
 ## Bar-Based Example on COVID Cases
-![Bar Plot Example]
-**First 35 Countries bar plot **
-![image](https://github.com/user-attachments/assets/26332c17-df13-401e-a503-6759fbf6a63b)
-**Other 35 Countries bar plot **
-![image](https://github.com/user-attachments/assets/10e1aa88-2317-4389-a753-c5aa9d6218a6)
+
+### First 35 Countries Bar Plot
+![First 35 Countries Bar Plot](https://github.com/user-attachments/assets/26332c17-df13-401e-a503-6759fbf6a63b)
+
+### Other 35 Countries Bar Plot
+![Other 35 Countries Bar Plot](https://github.com/user-attachments/assets/10e1aa88-2317-4389-a753-c5aa9d6218a6)
+
+### Top 20 Affected Countries Bar Plot
+![Top 20 Affected Countries](path/to/your/top_20_image.png)
+
 ![Top 20 Affected Countries](path/to/your/top_20_image.png)
 
