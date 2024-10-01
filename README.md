@@ -30,7 +30,7 @@ This project provides an analysis of COVID-19 cases across 70 countries using da
 ![Other 35 Countries Bar Plot](https://github.com/user-attachments/assets/10e1aa88-2317-4389-a753-c5aa9d6218a6)
 
 ### Top 20 Affected Countries Bar Plot
-![Top 20 Affected Countries] ![image](https://github.com/user-attachments/assets/8270665b-8ccf-4ae6-bef8-d5d21480daf7)
+![Top 20 Affected Countries](https://github.com/user-attachments/assets/8270665b-8ccf-4ae6-bef8-d5d21480daf7)
 
 
 
